@@ -1,3 +1,0 @@
-companysubdomain1
-companysubdomain2
-companysubdomain3
