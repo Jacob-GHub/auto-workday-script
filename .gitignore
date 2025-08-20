@@ -1,2 +1,4 @@
 config/
 myenv/
+
+__pycache__
